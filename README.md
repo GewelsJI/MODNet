@@ -34,7 +34,7 @@ Our real-Time portrait video matting demo based on WebCam is available! Please e
 
 
 ## Image Matting Demo
-We provide a portrait image matting demo, which allows you to upload portrait images to predict, visualize, and download the alpha mattes. [[Colab]()]
+We provide a portrait image matting demo, which allows you to upload portrait images and predict/visualize/download the alpha mattes. [[Colab]()]
 
 <img src="doc/gif/image_matting_demo.gif">
 
